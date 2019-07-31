@@ -1,0 +1,26 @@
+[
+  {
+    "family": "MaterialIcons",
+    "fonts": [
+      {
+        "asset": "fonts/MaterialIcons-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "family": "Harmonia",
+    "fonts": [
+      {
+        "asset": "fonts/Harmonia-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "family": "TiemposHeadline",
+    "fonts":[
+      {
+        "asset": "fonts/TiemposHeadline-Regular.ttf"
+      }
+    ]
+  }
+]
